@@ -1,0 +1,68 @@
+
+body {
+  background-color: #181216;
+}
+
+  h1 {
+    color: #f4b2e2;
+    text-align: center;
+    font-family: "Google Sans Flex", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 650;
+    font-style: normal;
+    font-size: 5vw;
+    line-height: 1.5em;
+    font-variation-settings:
+        "slnt" 0,
+        "wdth" 100,
+        "GRAD" 45,
+        "ROND" 80;
+}
+
+.emoticons {
+  font-family: "Noto Sans Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 650;
+  font-style: normal;
+  font-variation-settings:
+  "wdth" 100;
+  
+}
+.emoji-regular {
+  font-family: "Noto Color Emoji", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.subheading {
+    color: #f4b2e2;
+    text-align: center;
+    font-family: "Google Sans Flex", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 650;
+    font-style: normal;
+    font-size: 3vw;
+    line-height: 1.5em;
+    font-variation-settings:
+        "slnt" 0,
+        "wdth" 100,
+        "GRAD" 45,
+        "ROND" 80;
+
+}
+
+.container-comingsoon {
+  background-color: #67355d;
+  color: #dcbed1;
+  padding-left: 3vw;
+  padding-right: 3vw;
+  padding-bottom: 6vw;
+  padding-top: 3vw;
+  border-radius: 24px;
+  margin-left: 2%;
+  margin-right: 2%;
+  align-self: center;
+}
+
+.text-focus-in{animation:text-focus-in .7s cubic-bezier(.55,.085,.68,.53)}
+@keyframes text-focus-in{0%{filter:blur(12px);opacity:0}100%{filter:blur(0);opacity:1}}

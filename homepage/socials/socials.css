@@ -28,7 +28,7 @@ h1 {
 }
 
 .social-button {
-  background-color: #56404f;
+  background-color: #493643;
   border: none;
   color: #dcbed1;
   text-align: center;
@@ -60,3 +60,5 @@ p.hide
   font-size:20px;
 }
 
+.text-focus-in{animation:text-focus-in .7s cubic-bezier(.55,.085,.68,.53)}
+@keyframes text-focus-in{0%{filter:blur(12px);opacity:0}100%{filter:blur(0);opacity:1}}

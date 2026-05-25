@@ -1,19 +1,20 @@
 # Violetdoesntexist-Website
 
- my website!!
+ My website!!
+
 ## Description
 
-This is the code for my personal website i use as a portfolio and for people that find me online to find my other platforms and work, this website was made fully without ai but i did use code thats not mine for some things(credited below).
+This is the code for my personal website I use as a portfolio and for people that find me online to find my other platforms and work, this website was made fully without ai but I did use code thats not mine for some things (credited below).
 
 ## Getting Started
 
-well, just open it lol
-if you want to edit it, pull it and edit it in your text editor or ide of choice!!
+Well, just open it lol
+If you want to edit it, pull it and edit it in your text editor or ide of choice!!
 :>
 
 ## Help
 
-if you have questions feel free to contact me! :3
+If you have questions feel free to contact me! :3
 
 ## Authors
 
@@ -22,9 +23,9 @@ Violet Rufe
 ## Version History
 
 1.0 + 2.0
-ai heavy, files lost
+Ai heavy, files lost
 3.0
-new, 0 ai version made from the start, none of the old code used 
+New, 0 ai version made from the start, none of the old code used 
 
 ## License
 

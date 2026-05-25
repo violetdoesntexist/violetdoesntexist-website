@@ -64,3 +64,10 @@ p.hide
 
 .text-focus-in{animation:text-focus-in .7s cubic-bezier(.55,.085,.68,.53)}
 @keyframes text-focus-in{0%{filter:blur(12px);opacity:0}100%{filter:blur(0);opacity:1}}
+
+.background {
+    background-color: #181216;
+    height: 100vh; 
+    background-size: cover;
+    background-position: center;
+}

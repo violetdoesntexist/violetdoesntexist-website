@@ -1,6 +1,7 @@
 # Violetdoesntexist-Website
 
  My website!!
+ https://www.violetdoesntexist.me/
 
 ## Description
 
@@ -38,3 +39,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 * [animations-animista](https://animista.net)
 * [copy to clipboard gist](https://gist.github.com/itsbrex/519695f65e10a4b8d5c41f9fff50b223)
 * [general information on elements etc. w3schools](https://www.w3schools.com/)
+* [nginx hosting tutorial](https://medium.com/@emilyharbord2/deploy-a-static-site-on-nginx-9ed3d0dac72c)

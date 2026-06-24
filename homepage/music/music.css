@@ -75,3 +75,10 @@ body {
     background-size: cover;
     background-position: center;
 }
+
+.cover {
+  width: 50%;
+  height: 50%;
+  display: block;
+  margin: auto;
+}

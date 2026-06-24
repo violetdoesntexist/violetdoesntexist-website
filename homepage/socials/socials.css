@@ -12,7 +12,7 @@ h1 {
     font-optical-sizing: auto;
     font-weight: 650;
     font-style: normal;
-    font-size: 5vw;
+    font-size: 200%;
     line-height: 1.5em;
     font-variation-settings:
         "slnt" 0,
@@ -22,7 +22,6 @@ h1 {
 }
 
 .socials-container {
-  display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -35,7 +34,7 @@ h1 {
   color: #dcbed1;
   text-align: center;
   text-decoration: none;
-  font-size: 2vw;
+  font-size: 150%;
   cursor: pointer;
   border-radius: 50px;
   font-family: "Google Sans Flex", sans-serif;
@@ -47,13 +46,12 @@ h1 {
     "wdth" 100,
     "GRAD" 22,
     "ROND" 80;
-  position: absolute;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  left: 50%;
   display: block;
-  padding: 14px 28px;
+  padding: 28px 38px;
   width: 90%;
+  display: block;
+  margin: auto;
+  cursor: pointer;
 }
 
 p.hide
@@ -70,4 +68,12 @@ p.hide
     height: 100vh; 
     background-size: cover;
     background-position: center;
+}
+
+.padding {
+
+}
+
+a {
+  text-decoration: none;
 }

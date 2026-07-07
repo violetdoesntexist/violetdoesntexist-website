@@ -82,3 +82,17 @@ body {
   display: block;
   margin: auto;
 }
+
+p {
+color: #f4b2e2;
+    text-align: center;
+    font-family: "Google Sans Flex", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 650;
+    font-style: normal;  
+}
+
+
+.hidden {
+  color: #67355d;
+}

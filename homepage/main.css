@@ -3,6 +3,7 @@ body {
   background-color: #181216;
   margin: 0;
   height: 100%;
+
 }
 
 h1 {
@@ -103,4 +104,12 @@ h1.box {
     height: 100vh; 
     background-size: cover;
     background-position: center;
+}
+
+.hidden {
+ color: #181216;
+}
+
+.paragraph-countries {
+  font-size: 2.5vw;
 }

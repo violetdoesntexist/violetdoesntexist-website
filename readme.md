@@ -25,8 +25,10 @@ Violet Rufe
 
 1.0 + 2.0
 Ai heavy, files lost
+
 3.0
 New, 0 ai version made from the start, none of the old code used 
+
 
 ## License
 
@@ -40,4 +42,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 * [copy to clipboard gist](https://gist.github.com/itsbrex/519695f65e10a4b8d5c41f9fff50b223)
 * [general information on elements etc. w3schools](https://www.w3schools.com/)
 * [nginx hosting tutorial](https://medium.com/@emilyharbord2/deploy-a-static-site-on-nginx-9ed3d0dac72c)
-* [hover.css hover anims](https://ianlunn.github.io/Hover/#effects)
+* [oneko](https://github.com/tylxr59/oneko.js/tree/main)

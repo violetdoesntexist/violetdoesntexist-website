@@ -119,8 +119,8 @@ h1.box {
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
-  width: 33.33%;
-  padding: 5px;
+  width: 15%;
+  padding: 2.5px;
 }
 
 /* Clear floats after image containers */
@@ -135,8 +135,8 @@ h1.box {
 }
 
 .column {
-  flex: 33.33%;
-  padding: 5px;
+  flex: 15%;
+  padding: 2.5px;
 }
 
 @media screen and (max-width: 500px) {
@@ -150,7 +150,11 @@ cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="4
 }
 
 /* Round Corners */
-.hvr-round-corners {
+.round-corners {
+   border-radius: 0.4em;
+}
+
+.hvr-glow {
   display: inline-block;
   vertical-align: middle;
   -webkit-transform: perspective(1px) translateZ(0);
@@ -158,9 +162,9 @@ cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="4
   box-shadow: 0 0 1px rgba(0, 0, 0, 0);
   -webkit-transition-duration: 0.3s;
   transition-duration: 0.3s;
-  -webkit-transition-property: border-radius;
-  transition-property: border-radius;
+  -webkit-transition-property: box-shadow;
+  transition-property: box-shadow;
 }
-.hvr-round-corners:hover, .hvr-round-corners:focus, .hvr-round-corners:active {
-  border-radius: 1em;
+.hvr-glow:hover, .hvr-glow:focus, .hvr-glow:active {
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
 }

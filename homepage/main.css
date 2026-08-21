@@ -32,6 +32,7 @@ h1.box {
 @keyframes text-focus-in{0%{filter:blur(12px);opacity:0}100%{filter:blur(0);opacity:1}}
 
 .text-paragraphs {
+  text-decoration: none;
   background-color: #56404f;
   color: #dcbed1;
   text-align: left;

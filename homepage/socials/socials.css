@@ -76,4 +76,5 @@ a {
 
 @media only screen and (max-width:580px) { 
   h1 {font-size: 8vw;}
+  .social-button {font-size: 200%;}
 }

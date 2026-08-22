@@ -115,6 +115,7 @@
 
   let lastFrameTimestamp;
 
+
   function onAnimationFrame(timestamp) {
     // Stops execution if the neko element is removed from DOM
     if (!nekoEl.isConnected) {
@@ -280,4 +281,6 @@
 
   init();
 })();
+
+
 

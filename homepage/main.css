@@ -51,7 +51,7 @@ h1.box {
   margin-right: 5%;
   width: fit-content;
   height: fit-content;
-  border-radius: 24px;
+  border-radius: 35px;
   padding-top: 15px;
   padding-right: 25px;
   padding-bottom: 15px;
@@ -83,7 +83,7 @@ h1.box {
   text-decoration: none;
   font-size: 1.8vw;
   cursor: pointer;
-  border-radius: 24px;
+  border-radius: 35px;
   font-family: "Google Sans Flex", sans-serif;
   font-optical-sizing: auto;
   font-weight: 650;
@@ -167,5 +167,5 @@ cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="4
   transition-property: box-shadow;
 }
 .hvr-glow:hover, .hvr-glow:focus, .hvr-glow:active {
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
 }

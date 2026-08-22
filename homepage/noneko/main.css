@@ -169,3 +169,10 @@ cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="4
 .hvr-glow:hover, .hvr-glow:focus, .hvr-glow:active {
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
 }
+
+@media only screen and (max-width:580px) { 
+  .button {width: 100%; margin-right: 0%; margin-top: 5%; font-size: 5vw}
+  .buttons-contain {flex-direction: column; margin-top: 0%; margin-bottom: 0%; }
+  h1 {font-size: 5vw;}
+  .text-paragraphs {font-size: 4vw}
+}

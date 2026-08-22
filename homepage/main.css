@@ -195,3 +195,7 @@ cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="4
     "GRAD" 22,
     "ROND" 55;
 }
+
+.stamps {
+  width: 200px;
+}

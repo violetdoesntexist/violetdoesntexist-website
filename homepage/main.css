@@ -110,6 +110,7 @@ h1.box {
   .buttons-contain {flex-direction: column; margin-top: 0%; margin-bottom: 0%; }
   h1 {font-size: 6vw;}
   .text-paragraphs {font-size: 5vw}
+  .stamps { opacity: 0; display: none;}
 }
  
 .background {

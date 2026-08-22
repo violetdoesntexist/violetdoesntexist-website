@@ -132,3 +132,10 @@ h1 {
     background-size: cover;
     background-position: center;
 }
+
+@media only screen and (max-width:580px) { 
+  h1 {font-size: 8vw;}
+  .heading-project {font-size: 6vw;}
+  .project-paragraph {font-size: 4vw;}
+  .project-button {font-size: 3.5vw;}
+}

@@ -176,3 +176,19 @@ cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="4
   h1 {font-size: 5vw;}
   .text-paragraphs {font-size: 4vw}
 }
+
+.ai-text {
+  font-size: 2vw;
+  color: #dcbed1;
+  text-align: center;
+  font-family: "Google Sans Flex", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 650;
+  font-style: normal;
+  line-height: 1em;
+  font-variation-settings:
+    "slnt" 0,
+    "wdth" 100,
+    "GRAD" 22,
+    "ROND" 55;
+}

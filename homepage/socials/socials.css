@@ -1,12 +1,21 @@
+:root {
+  --primary-bg-color: #1A1423;
+  --primary-color: #C9C9EE;
+  --text-color: #053225;
+  --secondary: #336699;
+  --headings: #23F0C7;
+}
+
+
 
 body {
-  background-color: #181216;
+  background-color: var(--primary-bg-color);
   margin: 0;
   height: 100vh;
 }
 
 h1 {
-    color: #f4b2e2;
+    color: var(--headings);
     text-align: center;
     font-family: "Google Sans Flex", sans-serif;
     font-optical-sizing: auto;
@@ -29,9 +38,9 @@ h1 {
 }
 
 .social-button {
-  background-color: #493643;
+  background-color: var(--secondary);
   border: none;
-  color: #dcbed1;
+  color: var(--text-color);
   text-align: center;
   text-decoration: none;
   font-size: 150%;
@@ -56,7 +65,7 @@ h1 {
 
 p.hide
 {
-  color:#181216;
+  color: var(--primary-bg-color);
   font-size:20px;
 }
 
@@ -64,7 +73,7 @@ p.hide
 @keyframes text-focus-in{0%{filter:blur(12px);opacity:0}100%{filter:blur(0);opacity:1}}
 
 .background {
-    background-color: #181216;
+    background-color: var(--primary-bg-color);
     height: 100vh; 
     background-size: cover;
     background-position: center;
